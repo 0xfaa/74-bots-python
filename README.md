@@ -74,6 +74,8 @@ def main():
         print("Verify result:", json.dumps(verify_result, indent=2))
 
         # Link X account
+        # You need to link your x account in order to scrape the followers correctly.
+        # In case you link one x account, but provide headers for a different x account - the planet will explode.
         link_result = link_x_account(token, "x_test_username")
         print("Link X account result:", json.dumps(link_result, indent=2))
 
