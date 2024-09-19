@@ -1,4 +1,4 @@
-# 74-bots python 
+# 74bots python 
 
 The code below describes how one could use the 74-bots api using python.
 
