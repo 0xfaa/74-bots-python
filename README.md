@@ -87,7 +87,7 @@ def main():
 
         # Start scraping followers (you need to provide valid X API credentials)
         # You can get those if you go to the dev-tools window while logged-in
-        # in X dot com, then go to networking tab, filter fetch requests, and
+        # in X dot com, then go to networking tab, filter for XHR / fetch requests, and
         # inspect some request like all.json.
         #
         # ...or...
