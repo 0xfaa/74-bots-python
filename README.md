@@ -118,3 +118,11 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
+## How to get auth / csrf / cookie
+
+![image](https://github.com/user-attachments/assets/73a30d74-f779-4164-aa67-b490c1b1b8f4)
+
+Copy these values, they are used as attributes in the `start_scraping_followers` function.
+
+***Disclamer! Don't share these anywhere. They can give unwanted individuals temporary access to your account. 74bots do not store these values, these are gone after the request is finished.***
