@@ -2,6 +2,8 @@
 
 The code below describes how one could use the 74-bots api using python.
 
+You can checkout the swagger api-docs over [here](https://api.74bots.com/swagger)
+
 ```python
 import requests
 import json
